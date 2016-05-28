@@ -1,0 +1,6 @@
+name: Gearz Core
+main: development.gearznetworking.com.Core.Core
+authors: [DevGolem]
+version: 1.0
+description: Gearz Networking Core Plugin.
+website: GearzNetworking.com
