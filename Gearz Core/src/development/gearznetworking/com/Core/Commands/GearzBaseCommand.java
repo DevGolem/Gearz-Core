@@ -2,14 +2,10 @@ package development.gearznetworking.com.Core.Commands;
 
 import development.gearznetworking.com.Core.Core;
 import development.gearznetworking.com.Core.Interfaces.GearzInterfaces;
-import development.gearznetworking.com.Core.Players.GearzPlayer;
-import development.gearznetworking.com.Core.Ranks.GearzRank;
 import development.gearznetworking.com.Core.Utilities.GearzCommand;
 import development.gearznetworking.com.Core.Utilities.GearzMessage;
 import development.gearznetworking.com.Core.Utilities.GearzPreventionSet;
-import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
-import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
